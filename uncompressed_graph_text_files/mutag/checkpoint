@@ -1,0 +1,2 @@
+model_checkpoint_path: "mutagg2v_weights_dims32_eps50,negsamples10.ckpt"
+all_model_checkpoint_paths: "mutagg2v_weights_dims32_eps50,negsamples10.ckpt"
